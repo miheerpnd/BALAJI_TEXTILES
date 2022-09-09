@@ -1,0 +1,10 @@
+<?php
+if(isset($_COOKIE['LOGGEDIN'])){
+    setcookie('LOGGEDIN',true,60);
+    setcookie('NAME',"USER",60);
+    header('location:index.php');
+}
+else{
+    header('location:index.php');
+}
+?>

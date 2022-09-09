@@ -1,0 +1,125 @@
+.btn-blue{
+    border: 0;
+    padding: 0;
+    min-height: 30px;
+    background-color: #D6D8D7;
+    border-bottom: 2px solid #1A73E9;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .btn-blue:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #C4C6C5;
+  }
+  .btn-red{
+    border: 0;
+    padding: 0;
+    min-height: 30px;
+    background-color: #D6D8D7;
+    border-bottom: 2px solid #F44336;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .btn-red:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #C4C6C5;
+  }
+  .btn-yellow{
+    border: 0;
+    padding: 0;
+    min-height: 30px;
+    background-color: #D6D8D7;
+    border-bottom: 2px solid #FFC107;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .btn-yellow:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #C4C6C5;
+  }
+  .btn-green{
+    border: 0;
+    padding: 0;
+    min-height: 30px;
+    background-color: #D6D8D7;
+    border-bottom: 2px solid #4CAF50;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .btn-green:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #C4C6C5;
+  }
+  .btn-black{
+    border: 0;
+    padding: 0;
+    min-height: 30px;
+    background-color: #D6D8D7;
+    border-bottom: 2px solid black;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .btn-black:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #C4C6C5;
+  }
+  .input-meterial{
+    border: 0;
+    padding: 0;
+    min-height: 35px;
+    background-color: #E9ECEA;
+    border-bottom: 1.5px solid #89B2E9;
+    color: black;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 5px 5px 0px 0px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  .input-meterial:focus{
+    outline: none;
+    background-color: #E9ECEA;
+    border-bottom: 2px solid #1A73E9;
+  }
+  .input-meterial:active{
+    outline: none;
+    background-color: #E9ECEA;
+    border-bottom: 2px solid #1A73E9;
+  }
